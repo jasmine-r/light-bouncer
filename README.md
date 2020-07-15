@@ -1,5 +1,5 @@
 # light-bouncer
-light-bouncer is a bare metal application which runs on a Beaglebone & Zen Cape. 
+light-bouncer is a bare metal application which runs on Beaglebone with a Zen Cape. 
 
 Functionality
 ---------------
