@@ -1,0 +1,1231 @@
+Archive member included because of file (symbol)
+
+/home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(dmtimer.o)
+                              Debug/timer.o (DMTimerEnable)
+/home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(gpio_v2.o)
+                              Debug/bbg_leds.o (GPIOModuleReset)
+/home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+                              Debug/serial.o (UARTOperatingModeSelect)
+/home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(watchdog.o)
+                              Debug/wdtimer.o (WatchdogTimerEnable)
+/home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(consoleUtils.o)
+                              Debug/serial.o (ConsoleUtilsSetType)
+/home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(uartStdio.o)
+                              /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(consoleUtils.o) (UARTStdioInit)
+/home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(ascii.o)
+                              /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(uartStdio.o) (ASCIIToDigit)
+/home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(dmtimer.o)
+                              Debug/timer.o (DMTimer2ModuleClkConfig)
+/home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(gpio.o)
+                              Debug/joystick.o (GPIO0ModuleClkConfig)
+/home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(uart.o)
+                              Debug/serial.o (UARTPinMuxSetup)
+/home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(uartConsole.o)
+                              /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(uartStdio.o) (UARTConsoleInit)
+/home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(watchdog.o)
+                              Debug/wdtimer.o (WatchdogTimer1ModuleClkConfig)
+/home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(init.o)
+                              (Entry)
+/home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(interrupt.o)
+                              Debug/serial.o (IntRegister)
+/home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(startup.o)
+                              /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(init.o) (start_boot)
+/home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(cp15.o)
+                              /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(startup.o) (CP15VectorBaseAddrSet)
+/home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(cpu.o)
+                              /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(interrupt.o) (CPUIntStatus)
+/home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(exceptionhandler.o)
+                              /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(startup.o) (IRQHandler)
+/home/jra58/cmpt433/linaro-gcc/gcc-arm-none-eabi-4_7-2012q4/lib/gcc/arm-none-eabi/4.7.3//libgcc.a(_udivsi3.o)
+                              (__aeabi_uidiv)
+/home/jra58/cmpt433/linaro-gcc/gcc-arm-none-eabi-4_7-2012q4/lib/gcc/arm-none-eabi/4.7.3//libgcc.a(_divsi3.o)
+                              (__aeabi_idiv)
+/home/jra58/cmpt433/linaro-gcc/gcc-arm-none-eabi-4_7-2012q4/lib/gcc/arm-none-eabi/4.7.3//libgcc.a(_dvmd_tls.o)
+                              /home/jra58/cmpt433/linaro-gcc/gcc-arm-none-eabi-4_7-2012q4/lib/gcc/arm-none-eabi/4.7.3//libgcc.a(_udivsi3.o) (__aeabi_idiv0)
+
+Allocating common symbols
+Common symbol       size              file
+
+fnRAMVectors        0x200             /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(interrupt.o)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 Debug/bbg_leds.o
+ .data          0x00000000        0x0 Debug/bbg_leds.o
+ .bss           0x00000000        0x0 Debug/bbg_leds.o
+ .text          0x00000000        0x0 Debug/joystick.o
+ .data          0x00000000        0x0 Debug/joystick.o
+ .bss           0x00000000        0x0 Debug/joystick.o
+ .text          0x00000000        0x0 Debug/main.o
+ .data          0x00000000        0x0 Debug/main.o
+ .bss           0x00000000        0x0 Debug/main.o
+ .text          0x00000000        0x0 Debug/serial.o
+ .data          0x00000000        0x0 Debug/serial.o
+ .bss           0x00000000        0x0 Debug/serial.o
+ .text          0x00000000        0x0 Debug/timer.o
+ .data          0x00000000        0x0 Debug/timer.o
+ .bss           0x00000000        0x0 Debug/timer.o
+ .text.Timer_setTimerIsrCallback
+                0x00000000       0x2c Debug/timer.o
+ .text          0x00000000        0x0 Debug/wdtimer.o
+ .data          0x00000000        0x0 Debug/wdtimer.o
+ .bss           0x00000000        0x0 Debug/wdtimer.o
+ .text          0x00000000        0x0 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(dmtimer.o)
+ .data          0x00000000        0x0 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(dmtimer.o)
+ .bss           0x00000000        0x0 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(dmtimer.o)
+ .text.DMTimerDisable
+                0x00000000       0x6c /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(dmtimer.o)
+ .text.DMTimerPreScalerClkEnable
+                0x00000000       0xcc /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(dmtimer.o)
+ .text.DMTimerCounterGet
+                0x00000000       0x60 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(dmtimer.o)
+ .text.DMTimerReloadGet
+                0x00000000       0x2c /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(dmtimer.o)
+ .text.DMTimerGPOConfigure
+                0x00000000       0xcc /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(dmtimer.o)
+ .text.DMTimerCompareSet
+                0x00000000       0x64 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(dmtimer.o)
+ .text.DMTimerCompareGet
+                0x00000000       0x2c /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(dmtimer.o)
+ .text.DMTimerIntRawStatusSet
+                0x00000000       0x34 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(dmtimer.o)
+ .text.DMTimerIntRawStatusGet
+                0x00000000       0x2c /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(dmtimer.o)
+ .text.DMTimerIntStatusGet
+                0x00000000       0x2c /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(dmtimer.o)
+ .text.DMTimerTriggerSet
+                0x00000000       0x60 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(dmtimer.o)
+ .text.DMTimerIntEnableGet
+                0x00000000       0x2c /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(dmtimer.o)
+ .text.DMTimerResetConfigure
+                0x00000000       0x60 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(dmtimer.o)
+ .text.DMTimerReset
+                0x00000000       0x54 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(dmtimer.o)
+ .text.DMTimerContextSave
+                0x00000000       0xb8 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(dmtimer.o)
+ .text.DMTimerContextRestore
+                0x00000000      0x160 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(dmtimer.o)
+ .text.DMTimerPostedModeConfig
+                0x00000000       0x60 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(dmtimer.o)
+ .text          0x00000000        0x0 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(gpio_v2.o)
+ .data          0x00000000        0x0 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(gpio_v2.o)
+ .bss           0x00000000        0x0 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(gpio_v2.o)
+ .text.GPIOModuleDisable
+                0x00000000       0x38 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(gpio_v2.o)
+ .text.GPIODirModeGet
+                0x00000000       0x5c /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(gpio_v2.o)
+ .text.GPIOMultiplePinsWrite
+                0x00000000       0x44 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(gpio_v2.o)
+ .text.GPIOMultiplePinsRead
+                0x00000000       0x38 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(gpio_v2.o)
+ .text.GPIOPinIntEnable
+                0x00000000       0x64 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(gpio_v2.o)
+ .text.GPIOPinIntDisable
+                0x00000000       0x64 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(gpio_v2.o)
+ .text.GPIOIntTypeSet
+                0x00000000      0x564 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(gpio_v2.o)
+ .text.GPIOIntTypeGet
+                0x00000000      0x120 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(gpio_v2.o)
+ .text.GPIOPinIntStatus
+                0x00000000       0x84 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(gpio_v2.o)
+ .text.GPIOPinIntClear
+                0x00000000       0x64 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(gpio_v2.o)
+ .text.GPIORawIntStatus
+                0x00000000       0x74 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(gpio_v2.o)
+ .text.GPIOTriggerPinInt
+                0x00000000       0x64 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(gpio_v2.o)
+ .text.GPIOWakeupGlobalEnable
+                0x00000000       0x38 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(gpio_v2.o)
+ .text.GPIOWakeupGlobalDisable
+                0x00000000       0x38 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(gpio_v2.o)
+ .text.GPIOPinIntWakeUpEnable
+                0x00000000       0x84 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(gpio_v2.o)
+ .text.GPIOPinIntWakeUpDisable
+                0x00000000       0x8c /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(gpio_v2.o)
+ .text.GPIOAutoIdleModeControl
+                0x00000000       0x60 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(gpio_v2.o)
+ .text.GPIOIdleModeConfigure
+                0x00000000       0x60 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(gpio_v2.o)
+ .text.GPIOGatingRatioConfigure
+                0x00000000       0x60 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(gpio_v2.o)
+ .text.GPIODebounceFuncControl
+                0x00000000       0x78 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(gpio_v2.o)
+ .text.GPIODebounceTimeConfig
+                0x00000000       0x34 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(gpio_v2.o)
+ .text.GPIORevisionInfoGet
+                0x00000000       0x28 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(gpio_v2.o)
+ .text.gpioContextSave
+                0x00000000       0x5c /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(gpio_v2.o)
+ .text.gpioContextRestore
+                0x00000000       0x5c /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(gpio_v2.o)
+ .text          0x00000000        0x0 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .data          0x00000000        0x0 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .bss           0x00000000        0x0 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTDivisorLatchEnable
+                0x00000000       0x38 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTRegConfModeRestore
+                0x00000000       0x30 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTParityModeSet
+                0x00000000       0x60 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTParityModeGet
+                0x00000000       0x30 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTFIFOConfig
+                0x00000000      0x480 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTDMAEnable
+                0x00000000       0x80 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTDMADisable
+                0x00000000       0x54 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTFIFORegisterWrite
+                0x00000000       0xc0 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTEnhanFuncEnable
+                0x00000000       0x88 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTEnhanFuncBitValRestore
+                0x00000000       0x8c /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTSubConfigMSRSPRModeEn
+                0x00000000      0x124 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTSubConfigTCRTLRModeEn
+                0x00000000      0x124 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTSubConfigXOFFModeEn
+                0x00000000      0x124 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTTCRTLRBitValRestore
+                0x00000000      0x128 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTIntDisable
+                0x00000000      0x110 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTSpaceAvail
+                0x00000000       0x78 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTCharsAvail
+                0x00000000       0x78 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTCharGet
+                0x00000000       0x84 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTCharGetTimeout
+                0x00000000       0xac /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTFIFOCharPut
+                0x00000000       0x30 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTFIFOCharGet
+                0x00000000       0x30 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTFIFOWrite
+                0x00000000       0x78 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTRxErrorGet
+                0x00000000       0x6c /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTIntPendingStatusGet
+                0x00000000       0x78 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTFIFOEnableStatusGet
+                0x00000000       0x78 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTAutoRTSAutoCTSControl
+                0x00000000       0xb4 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTSpecialCharDetectControl
+                0x00000000       0x8c /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTSoftwareFlowCtrlOptSet
+                0x00000000       0x8c /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTPulseShapingControl
+                0x00000000       0x60 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTIdleModeConfigure
+                0x00000000       0x60 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTWakeUpControl
+                0x00000000       0x60 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTAutoIdleModeControl
+                0x00000000       0x60 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTFlowCtrlTrigLvlConfig
+                0x00000000       0x60 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTXON1XOFF1ValProgram
+                0x00000000       0x4c /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTXON2XOFF2ValProgram
+                0x00000000       0x4c /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTXONAnyFeatureControl
+                0x00000000      0x100 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTLoopbackModeControl
+                0x00000000       0x60 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTModemControlSet
+                0x00000000       0x44 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTModemControlClear
+                0x00000000       0x48 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTModemStatusGet
+                0x00000000       0x30 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTModemStatusChangeCheck
+                0x00000000       0x30 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTResumeOperation
+                0x00000000       0x28 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTWakeUpEventsEnable
+                0x00000000       0x44 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTWakeUpEventsDisable
+                0x00000000       0x48 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTFIFOTrigLvlGranControl
+                0x00000000       0x88 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTDSRInterruptControl
+                0x00000000       0x60 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTTxEmptyIntControl
+                0x00000000       0x60 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTRXCTSDSRWakeUpConfigure
+                0x00000000       0x60 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTRXCTSDSRTransitionStatusGet
+                0x00000000       0x30 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTDMACounterResetControl
+                0x00000000       0x60 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTTxFIFOFullStatusGet
+                0x00000000       0x30 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTTxFIFOLevelGet
+                0x00000000       0x2c /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTRxFIFOLevelGet
+                0x00000000       0x2c /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTAutobaudParityGet
+                0x00000000       0x6c /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTAutobaudWordLenGet
+                0x00000000       0x6c /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTAutobaudSpeedGet
+                0x00000000       0x6c /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTScratchPadRegWrite
+                0x00000000       0x60 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTScratchPadRegRead
+                0x00000000       0x30 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTModuleVersionNumberGet
+                0x00000000       0x30 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTTxDMAThresholdControl
+                0x00000000       0x60 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTTxDMAThresholdValConfig
+                0x00000000       0x60 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text          0x00000000        0x0 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(watchdog.o)
+ .data          0x00000000        0x0 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(watchdog.o)
+ .bss           0x00000000        0x0 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(watchdog.o)
+ .text.WatchdogTimerRevisionIDGet
+                0x00000000       0x28 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(watchdog.o)
+ .text.WatchdogTimerPreScalerClkEnable
+                0x00000000       0xa8 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(watchdog.o)
+ .text.WatchdogTimerCounterSet
+                0x00000000       0x50 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(watchdog.o)
+ .text.WatchdogTimerCounterGet
+                0x00000000       0x2c /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(watchdog.o)
+ .text.WatchdogTimerReloadGet
+                0x00000000       0x2c /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(watchdog.o)
+ .text.WatchdogTimerDelaySet
+                0x00000000       0x50 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(watchdog.o)
+ .text.WatchdogTimerDelayGet
+                0x00000000       0x2c /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(watchdog.o)
+ .text.WatchdogTimerIntRawStatusSet
+                0x00000000       0x34 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(watchdog.o)
+ .text.WatchdogTimerIntRawStatusGet
+                0x00000000       0x2c /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(watchdog.o)
+ .text.WatchdogTimerIntStatusGet
+                0x00000000       0x2c /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(watchdog.o)
+ .text.WatchdogTimerIntStatusClear
+                0x00000000       0x34 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(watchdog.o)
+ .text.WatchdogTimerIntEnable
+                0x00000000       0x34 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(watchdog.o)
+ .text.WatchdogTimerIntEnableStatusGet
+                0x00000000       0x2c /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(watchdog.o)
+ .text.WatchdogTimerIntDisable
+                0x00000000       0x34 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(watchdog.o)
+ .text          0x00000000        0x0 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(consoleUtils.o)
+ .data          0x00000000        0x0 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(consoleUtils.o)
+ .bss           0x00000000        0x0 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(consoleUtils.o)
+ .text.ConsoleUtilsInit
+                0x00000000       0x18 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(consoleUtils.o)
+ .text.ConsoleUtilsScanf
+                0x00000000       0x80 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(consoleUtils.o)
+ .text.ConsoleUtilsGets
+                0x00000000       0x74 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(consoleUtils.o)
+ .text.ConsoleUtilsPuts
+                0x00000000       0x60 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(consoleUtils.o)
+ .text.ConsoleUtilsGetChar
+                0x00000000       0xa8 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(consoleUtils.o)
+ .text.ConsoleUtilsPutChar
+                0x00000000       0x60 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(consoleUtils.o)
+ .text          0x00000000        0x0 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(uartStdio.o)
+ .data          0x00000000        0x0 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(uartStdio.o)
+ .bss           0x00000000        0x0 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(uartStdio.o)
+ .text.UARTStdioInit
+                0x00000000       0x18 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(uartStdio.o)
+ .text.UARTStdioRead
+                0x00000000       0xd0 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(uartStdio.o)
+ .text.UARTGets
+                0x00000000       0xdc /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(uartStdio.o)
+ .text.UARTPutNum
+                0x00000000      0x178 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(uartStdio.o)
+ .text.UARTPutHexNum
+                0x00000000      0x198 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(uartStdio.o)
+ .text.UARTGetNum
+                0x00000000      0x118 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(uartStdio.o)
+ .text.UARTGetHexNum
+                0x00000000      0x2ec /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(uartStdio.o)
+ .text.UARTGetc
+                0x00000000       0x20 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(uartStdio.o)
+ .text.UARTprintf
+                0x00000000      0x6b8 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(uartStdio.o)
+ .text.UARTScanf
+                0x00000000      0xa68 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(uartStdio.o)
+ .text          0x00000000        0x0 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(ascii.o)
+ .data          0x00000000        0x0 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(ascii.o)
+ .bss           0x00000000        0x0 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(ascii.o)
+ .text.ASCIIToDigit
+                0x00000000       0xe8 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(ascii.o)
+ .text.DigitToASCII
+                0x00000000       0xb8 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(ascii.o)
+ .text.StrToEthrAddr
+                0x00000000      0x184 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(ascii.o)
+ .text.EthrAddrToStr
+                0x00000000      0x180 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(ascii.o)
+ .text.TimeToStr
+                0x00000000      0x18c /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(ascii.o)
+ .text.DateToStr
+                0x00000000      0x18c /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(ascii.o)
+ .debug_info    0x00000000      0x289 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(ascii.o)
+ .debug_abbrev  0x00000000       0xce /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(ascii.o)
+ .debug_loc     0x00000000      0x108 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(ascii.o)
+ .debug_aranges
+                0x00000000       0x48 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(ascii.o)
+ .debug_ranges  0x00000000       0x38 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(ascii.o)
+ .debug_line    0x00000000      0x1a6 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(ascii.o)
+ .debug_str     0x00000000      0x198 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(ascii.o)
+ .comment       0x00000000       0x71 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(ascii.o)
+ .ARM.attributes
+                0x00000000       0x37 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(ascii.o)
+ .debug_frame   0x00000000       0xb0 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(ascii.o)
+ .text          0x00000000        0x0 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(dmtimer.o)
+ .data          0x00000000        0x0 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(dmtimer.o)
+ .bss           0x00000000        0x0 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(dmtimer.o)
+ .text.DMTimer3ModuleClkConfig
+                0x00000000      0x260 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(dmtimer.o)
+ .text.DMTimer4ModuleClkConfig
+                0x00000000      0x268 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(dmtimer.o)
+ .text.DMTimer6ModuleClkConfig
+                0x00000000       0xc4 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(dmtimer.o)
+ .text.DMTimer7ModuleClkConfig
+                0x00000000      0x260 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(dmtimer.o)
+ .text.DMTimer1msModuleClkConfig
+                0x00000000       0xd8 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(dmtimer.o)
+ .text          0x00000000        0x0 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(gpio.o)
+ .data          0x00000000        0x0 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(gpio.o)
+ .bss           0x00000000        0x0 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(gpio.o)
+ .text.GPIO1Pin23PinMuxSetup
+                0x00000000       0x24 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(gpio.o)
+ .text.GPIO1PinMuxSetup
+                0x00000000       0x38 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(gpio.o)
+ .text.GpioPinMuxSetup
+                0x00000000       0x34 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(gpio.o)
+ .text          0x00000000        0x0 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(uart.o)
+ .data          0x00000000        0x0 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(uart.o)
+ .bss           0x00000000        0x0 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(uart.o)
+ .text          0x00000000        0x0 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(uartConsole.o)
+ .data          0x00000000        0x0 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(uartConsole.o)
+ .bss           0x00000000        0x0 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(uartConsole.o)
+ .text.UARTStdioInitExpClk
+                0x00000000       0xd0 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(uartConsole.o)
+ .text.UartFIFOConfigure
+                0x00000000       0x64 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(uartConsole.o)
+ .text.UartBaudRateSet
+                0x00000000       0x5c /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(uartConsole.o)
+ .text.UARTConsoleInit
+                0x00000000       0x44 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(uartConsole.o)
+ .text.UARTConsoleGetc
+                0x00000000       0x2c /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(uartConsole.o)
+ .text          0x00000000        0x0 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(watchdog.o)
+ .data          0x00000000        0x0 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(watchdog.o)
+ .bss           0x00000000        0x0 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(watchdog.o)
+ .data          0x00000000        0x0 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(init.o)
+ .bss           0x00000000        0x0 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(init.o)
+ .text          0x00000000        0x0 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(interrupt.o)
+ .data          0x00000000        0x0 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(interrupt.o)
+ .bss           0x00000000        0x0 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(interrupt.o)
+ .text.IntUnRegister
+                0x00000000       0x34 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(interrupt.o)
+ .text.IntSystemDisable
+                0x00000000       0x4c /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(interrupt.o)
+ .text.IntIfClkFreeRunSet
+                0x00000000       0x30 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(interrupt.o)
+ .text.IntIfClkAutoGateSet
+                0x00000000       0x30 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(interrupt.o)
+ .text.IntActiveIrqNumGet
+                0x00000000       0x28 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(interrupt.o)
+ .text.IntSpurIrqFlagGet
+                0x00000000       0x28 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(interrupt.o)
+ .text.IntProtectionEnable
+                0x00000000       0x24 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(interrupt.o)
+ .text.IntProtectionDisable
+                0x00000000       0x30 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(interrupt.o)
+ .text.IntSyncClkFreeRunSet
+                0x00000000       0x30 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(interrupt.o)
+ .text.IntSyncClkAutoGateSet
+                0x00000000       0x30 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(interrupt.o)
+ .text.IntFuncClkFreeRunSet
+                0x00000000       0x30 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(interrupt.o)
+ .text.IntFuncClkAutoGateSet
+                0x00000000       0x30 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(interrupt.o)
+ .text.IntCurrIrqPriorityGet
+                0x00000000       0x28 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(interrupt.o)
+ .text.IntPriorityThresholdGet
+                0x00000000       0x28 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(interrupt.o)
+ .text.IntPriorityThresholdSet
+                0x00000000       0x30 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(interrupt.o)
+ .text.IntRawStatusGet
+                0x00000000       0x5c /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(interrupt.o)
+ .text.IntSoftwareIntSet
+                0x00000000       0x48 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(interrupt.o)
+ .text.IntSoftwareIntClear
+                0x00000000       0x48 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(interrupt.o)
+ .text.IntPendingIrqMaskedStatusGet
+                0x00000000       0x58 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(interrupt.o)
+ .text.IntMasterIRQDisable
+                0x00000000       0x18 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(interrupt.o)
+ .text.IntMasterFIQEnable
+                0x00000000       0x18 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(interrupt.o)
+ .text.IntMasterFIQDisable
+                0x00000000       0x18 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(interrupt.o)
+ .text.IntMasterStatusGet
+                0x00000000       0x20 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(interrupt.o)
+ .text.IntDisable
+                0x00000000       0x3c /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(interrupt.o)
+ .text.IntEnable
+                0x00000000       0x38 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(interrupt.o)
+ .text          0x00000000        0x0 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(startup.o)
+ .data          0x00000000        0x0 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(startup.o)
+ .bss           0x00000000        0x0 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(startup.o)
+ .data          0x00000000        0x0 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(cp15.o)
+ .bss           0x00000000        0x0 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(cp15.o)
+ .text          0x00000000        0x0 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(cpu.o)
+ .data          0x00000000        0x0 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(cpu.o)
+ .bss           0x00000000        0x0 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(cpu.o)
+ .text.CPUSwitchToPrivilegedMode
+                0x00000000       0x18 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(cpu.o)
+ .text.CPUSwitchToUserMode
+                0x00000000       0x24 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(cpu.o)
+ .text.CPUAbortHandler
+                0x00000000       0x14 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(cpu.o)
+ .text.CPUIntStatus
+                0x00000000       0x2c /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(cpu.o)
+ .text.CPUirqd  0x00000000       0x24 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(cpu.o)
+ .text.CPUfiqd  0x00000000       0x24 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(cpu.o)
+ .text.CPUfiqe  0x00000000       0x24 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(cpu.o)
+ .data          0x00000000        0x0 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(exceptionhandler.o)
+ .bss           0x00000000        0x0 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(exceptionhandler.o)
+ .data          0x00000000        0x0 /home/jra58/cmpt433/linaro-gcc/gcc-arm-none-eabi-4_7-2012q4/lib/gcc/arm-none-eabi/4.7.3//libgcc.a(_udivsi3.o)
+ .bss           0x00000000        0x0 /home/jra58/cmpt433/linaro-gcc/gcc-arm-none-eabi-4_7-2012q4/lib/gcc/arm-none-eabi/4.7.3//libgcc.a(_udivsi3.o)
+ .data          0x00000000        0x0 /home/jra58/cmpt433/linaro-gcc/gcc-arm-none-eabi-4_7-2012q4/lib/gcc/arm-none-eabi/4.7.3//libgcc.a(_divsi3.o)
+ .bss           0x00000000        0x0 /home/jra58/cmpt433/linaro-gcc/gcc-arm-none-eabi-4_7-2012q4/lib/gcc/arm-none-eabi/4.7.3//libgcc.a(_divsi3.o)
+ .data          0x00000000        0x0 /home/jra58/cmpt433/linaro-gcc/gcc-arm-none-eabi-4_7-2012q4/lib/gcc/arm-none-eabi/4.7.3//libgcc.a(_dvmd_tls.o)
+ .bss           0x00000000        0x0 /home/jra58/cmpt433/linaro-gcc/gcc-arm-none-eabi-4_7-2012q4/lib/gcc/arm-none-eabi/4.7.3//libgcc.a(_dvmd_tls.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+DDR0             0x80000000         0x10000000
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD Debug/bbg_leds.o
+LOAD Debug/joystick.o
+LOAD Debug/main.o
+LOAD Debug/serial.o
+LOAD Debug/timer.o
+LOAD Debug/wdtimer.o
+LOAD /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a
+LOAD /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a
+LOAD /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a
+LOAD /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a
+LOAD /home/jra58/cmpt433/linaro-gcc/gcc-arm-none-eabi-4_7-2012q4/arm-none-eabi/lib//libc.a
+LOAD /home/jra58/cmpt433/linaro-gcc/gcc-arm-none-eabi-4_7-2012q4/lib/gcc/arm-none-eabi/4.7.3//libgcc.a
+LOAD /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a
+LOAD /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a
+LOAD /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a
+LOAD /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a
+LOAD /home/jra58/cmpt433/linaro-gcc/gcc-arm-none-eabi-4_7-2012q4/arm-none-eabi/lib//libc.a
+LOAD /home/jra58/cmpt433/linaro-gcc/gcc-arm-none-eabi-4_7-2012q4/lib/gcc/arm-none-eabi/4.7.3//libgcc.a
+
+.startcode      0x80000000       0xbc
+                0x80000000                . = ALIGN (0x4)
+ *init.o(.text)
+ .text          0x80000000       0xbc /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(init.o)
+                0x80000000                Entry
+
+.text           0x800000bc     0x45f4
+                0x800000bc                . = ALIGN (0x4)
+ *(.text*)
+ .text.calculatePower
+                0x800000bc       0x6c Debug/bbg_leds.o
+ .text.initializeLeds
+                0x80000128       0xb0 Debug/bbg_leds.o
+                0x80000128                initializeLeds
+ .text.setLEDFlashSpeed
+                0x800001d8       0x2c Debug/bbg_leds.o
+                0x800001d8                setLEDFlashSpeed
+ .text.getLEDFlashSpeed
+                0x80000204       0x24 Debug/bbg_leds.o
+                0x80000204                getLEDFlashSpeed
+ .text.bounceLEDs
+                0x80000228      0x15c Debug/bbg_leds.o
+                0x80000228                bounceLEDs
+ .text.barLEDs  0x80000384      0x11c Debug/bbg_leds.o
+                0x80000384                barLEDs
+ .text.busyWait
+                0x800004a0       0x44 Debug/bbg_leds.o
+                0x800004a0                busyWait
+ .text.GPIO2ModuleClkConfig
+                0x800004e4       0xbc Debug/joystick.o
+                0x800004e4                GPIO2ModuleClkConfig
+ .text.initializeJoystick
+                0x800005a0       0xc8 Debug/joystick.o
+                0x800005a0                initializeJoystick
+ .text.joystick_doBackgroundWork
+                0x80000668      0x1d0 Debug/joystick.o
+                0x80000668                joystick_doBackgroundWork
+ .text.readButtonWithStarterWare
+                0x80000838       0x3c Debug/joystick.o
+ .text.readDownButtonWithBitTwiddling
+                0x80000874       0x50 Debug/joystick.o
+ .text.readUpButtonWithBitTwiddling
+                0x800008c4       0x50 Debug/joystick.o
+ .text.serialRxIsrCallback
+                0x80000914       0x30 Debug/main.o
+ .text.helpMessage
+                0x80000944       0xe8 Debug/main.o
+ .text.determineSpeedSpecified
+                0x80000a2c       0xec Debug/main.o
+                0x80000a2c                determineSpeedSpecified
+ .text.doBackgroundSerialWork
+                0x80000b18      0x1ec Debug/main.o
+ .text.main     0x80000d04      0x1b4 Debug/main.o
+                0x80000d04                main
+ .text.Serial_init
+                0x80000eb8       0xdc Debug/serial.o
+                0x80000eb8                Serial_init
+ .text.Serial_setRxIsrCallback
+                0x80000f94       0x2c Debug/serial.o
+                0x80000f94                Serial_setRxIsrCallback
+ .text.UartBaudRateSet
+                0x80000fc0       0x5c Debug/serial.o
+ .text.UartInterruptEnable
+                0x8000101c       0x7c Debug/serial.o
+ .text.UARTIsr  0x80001098       0xc8 Debug/serial.o
+ .text.Timer_init
+                0x80001160       0x7c Debug/timer.o
+                0x80001160                Timer_init
+ .text.Timer_isIsrFlagSet
+                0x800011dc       0x28 Debug/timer.o
+                0x800011dc                Timer_isIsrFlagSet
+ .text.Timer_clearIsrFlag
+                0x80001204       0x24 Debug/timer.o
+                0x80001204                Timer_clearIsrFlag
+ .text.DMTimerIsr
+                0x80001228       0x88 Debug/timer.o
+ .text.DMTimerAintcConfigure
+                0x800012b0       0x4c Debug/timer.o
+ .text.DMTimerSetUp
+                0x800012fc       0x5c Debug/timer.o
+ .text.Watchdog_init
+                0x80001358       0x84 Debug/wdtimer.o
+                0x80001358                Watchdog_init
+ .text.Watchdog_hit
+                0x800013dc       0x4c Debug/wdtimer.o
+                0x800013dc                Watchdog_hit
+ .text.DMTimerEnable
+                0x80001428       0x6c /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(dmtimer.o)
+                0x80001428                DMTimerEnable
+ .text.DMTimerModeConfigure
+                0x80001494       0xcc /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(dmtimer.o)
+                0x80001494                DMTimerModeConfigure
+ .text.DMTimerPreScalerClkDisable
+                0x80001560       0x6c /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(dmtimer.o)
+                0x80001560                DMTimerPreScalerClkDisable
+ .text.DMTimerCounterSet
+                0x800015cc       0x64 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(dmtimer.o)
+                0x800015cc                DMTimerCounterSet
+ .text.DMTimerReloadSet
+                0x80001630       0x64 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(dmtimer.o)
+                0x80001630                DMTimerReloadSet
+ .text.DMTimerIntStatusClear
+                0x80001694       0x34 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(dmtimer.o)
+                0x80001694                DMTimerIntStatusClear
+ .text.DMTimerIntEnable
+                0x800016c8       0x34 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(dmtimer.o)
+                0x800016c8                DMTimerIntEnable
+ .text.DMTimerIntDisable
+                0x800016fc       0x34 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(dmtimer.o)
+                0x800016fc                DMTimerIntDisable
+ .text.DMTimerWritePostedStatusGet
+                0x80001730       0x2c /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(dmtimer.o)
+                0x80001730                DMTimerWritePostedStatusGet
+ .text.GPIOModuleReset
+                0x8000175c       0x54 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(gpio_v2.o)
+                0x8000175c                GPIOModuleReset
+ .text.GPIOModuleEnable
+                0x800017b0       0x38 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(gpio_v2.o)
+                0x800017b0                GPIOModuleEnable
+ .text.GPIODirModeSet
+                0x800017e8       0x88 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(gpio_v2.o)
+                0x800017e8                GPIODirModeSet
+ .text.GPIOPinWrite
+                0x80001870       0x64 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(gpio_v2.o)
+                0x80001870                GPIOPinWrite
+ .text.GPIOPinRead
+                0x800018d4       0x40 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(gpio_v2.o)
+                0x800018d4                GPIOPinRead
+ .text.UARTOperatingModeSelect
+                0x80001914       0x84 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+                0x80001914                UARTOperatingModeSelect
+ .text.UARTDivisorValCompute
+                0x80001998      0x104 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+                0x80001998                UARTDivisorValCompute
+ .text.UARTDivisorLatchWrite
+                0x80001a9c      0x210 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+                0x80001a9c                UARTDivisorLatchWrite
+ .text.UARTDivisorLatchDisable
+                0x80001cac       0x38 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+                0x80001cac                UARTDivisorLatchDisable
+ .text.UARTRegConfigModeEnable
+                0x80001ce4       0x9c /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+                0x80001ce4                UARTRegConfigModeEnable
+ .text.UARTBreakCtl
+                0x80001d80       0x60 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+                0x80001d80                UARTBreakCtl
+ .text.UARTLineCharacConfig
+                0x80001de0       0xa4 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+                0x80001de0                UARTLineCharacConfig
+ .text.UARTIntEnable
+                0x80001e84      0x130 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+                0x80001e84                UARTIntEnable
+ .text.UARTCharPutNonBlocking
+                0x80001fb4       0x8c /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+                0x80001fb4                UARTCharPutNonBlocking
+ .text.UARTCharGetNonBlocking
+                0x80002040       0x80 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+                0x80002040                UARTCharGetNonBlocking
+ .text.UARTCharPut
+                0x800020c0       0x78 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+                0x800020c0                UARTCharPut
+ .text.UARTIntIdentityGet
+                0x80002138       0x6c /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+                0x80002138                UARTIntIdentityGet
+ .text.UARTModuleReset
+                0x800021a4       0x54 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+                0x800021a4                UARTModuleReset
+ .text.WatchdogTimerEnable
+                0x800021f8       0x80 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(watchdog.o)
+                0x800021f8                WatchdogTimerEnable
+ .text.WatchdogTimerDisable
+                0x80002278       0x80 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(watchdog.o)
+                0x80002278                WatchdogTimerDisable
+ .text.WatchdogTimerReset
+                0x800022f8       0x54 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(watchdog.o)
+                0x800022f8                WatchdogTimerReset
+ .text.WatchdogTimerPreScalerClkDisable
+                0x8000234c       0x58 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(watchdog.o)
+                0x8000234c                WatchdogTimerPreScalerClkDisable
+ .text.WatchdogTimerReloadSet
+                0x800023a4       0x50 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(watchdog.o)
+                0x800023a4                WatchdogTimerReloadSet
+ .text.WatchdogTimerTriggerSet
+                0x800023f4       0x50 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(watchdog.o)
+                0x800023f4                WatchdogTimerTriggerSet
+ .text.WatchdogTimerWritePostedStatusGet
+                0x80002444       0x38 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(watchdog.o)
+                0x80002444                WatchdogTimerWritePostedStatusGet
+ .text.ConsoleUtilsSetType
+                0x8000247c       0x54 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(consoleUtils.o)
+                0x8000247c                ConsoleUtilsSetType
+ .text.ConsoleUtilsPrintf
+                0x800024d0       0x6c /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(consoleUtils.o)
+                0x800024d0                ConsoleUtilsPrintf
+ .text.UARTPuts
+                0x8000253c       0xec /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(uartStdio.o)
+                0x8000253c                UARTPuts
+ .text.UARTPutc
+                0x80002628       0x30 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(uartStdio.o)
+                0x80002628                UARTPutc
+ .text.UARTwrite
+                0x80002658       0x94 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(uartStdio.o)
+                0x80002658                UARTwrite
+ .text.UARTPrintf
+                0x800026ec      0x6ac /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(uartStdio.o)
+                0x800026ec                UARTPrintf
+ .text.DMTimer2ModuleClkConfig
+                0x80002d98      0x260 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(dmtimer.o)
+                0x80002d98                DMTimer2ModuleClkConfig
+ .text.GPIO0ModuleClkConfig
+                0x80002ff8      0x148 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(gpio.o)
+                0x80002ff8                GPIO0ModuleClkConfig
+ .text.GPIO1ModuleClkConfig
+                0x80003140       0xbc /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(gpio.o)
+                0x80003140                GPIO1ModuleClkConfig
+ .text.UARTPinMuxSetup
+                0x800031fc       0x48 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(uart.o)
+                0x800031fc                UARTPinMuxSetup
+ .text.UART0ModuleClkConfig
+                0x80003244      0x35c /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(uart.o)
+                0x80003244                UART0ModuleClkConfig
+ .text.UARTConsolePutc
+                0x800035a0       0x38 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(uartConsole.o)
+                0x800035a0                UARTConsolePutc
+ .text.WatchdogTimer1ModuleClkConfig
+                0x800035d8      0x248 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(watchdog.o)
+                0x800035d8                WatchdogTimer1ModuleClkConfig
+ .text.IntDefaultHandler
+                0x80003820       0x14 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(interrupt.o)
+ .text.IntRegister
+                0x80003834       0x34 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(interrupt.o)
+                0x80003834                IntRegister
+ .text.IntAINTCInit
+                0x80003868       0x90 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(interrupt.o)
+                0x80003868                IntAINTCInit
+ .text.IntPrioritySet
+                0x800038f8       0x50 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(interrupt.o)
+                0x800038f8                IntPrioritySet
+ .text.IntSystemEnable
+                0x80003948       0x4c /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(interrupt.o)
+                0x80003948                IntSystemEnable
+ .text.IntMasterIRQEnable
+                0x80003994       0x18 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(interrupt.o)
+                0x80003994                IntMasterIRQEnable
+ .text.start_boot
+                0x800039ac       0x24 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(startup.o)
+                0x800039ac                start_boot
+ .text.CopyVectorTable
+                0x800039d0       0x98 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(startup.o)
+ .text          0x80003a68      0x488 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(cp15.o)
+                0x80003a68                CP15ICacheDisable
+                0x80003a84                CP15DCacheDisable
+                0x80003aa0                CP15ICacheEnable
+                0x80003ab0                CP15DCacheEnable
+                0x80003ac0                CP15DCacheFlush
+                0x80003b54                CP15DCacheClean
+                0x80003be8                CP15DCacheCleanFlush
+                0x80003c7c                CP15ICacheFlush
+                0x80003c8c                CP15DCacheCleanBuff
+                0x80003ce0                CP15DCacheCleanFlushBuff
+                0x80003d34                CP15DCacheFlushBuff
+                0x80003d98                CP15ICacheFlushBuff
+                0x80003dec                CP15Ttb0Set
+                0x80003df8                CP15TlbInvalidate
+                0x80003e04                CP15MMUDisable
+                0x80003e1c                CP15MMUEnable
+                0x80003e30                CP15VectorBaseAddrSet
+                0x80003e3c                CP15BranchPredictorInvalidate
+                0x80003e48                CP15BranchPredictionEnable
+                0x80003e58                CP15BranchPredictionDisable
+                0x80003e68                CP15DomainAccessClientSet
+                0x80003e78                CP15ControlFeatureDisable
+                0x80003e8c                CP15ControlFeatureEnable
+                0x80003ea0                CP15TtbCtlTtb0Config
+                0x80003eb0                CP15AuxControlFeatureEnable
+                0x80003ec4                CP15AuxControlFeatureDisable
+                0x80003ed8                CP15MainIdPrimPartNumGet
+ .text.CPUirqe  0x80003ef0       0x24 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(cpu.o)
+                0x80003ef0                CPUirqe
+ .text          0x80003f14       0xf0 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(exceptionhandler.o)
+                0x80003f14                SVC_Handler
+                0x80003f3c                IRQHandler
+                0x80003fe8                FIQHandler
+                0x80003fec                UndefInstHandler
+                0x80003fec                AbortHandler
+ .text          0x80004004      0x114 /home/jra58/cmpt433/linaro-gcc/gcc-arm-none-eabi-4_7-2012q4/lib/gcc/arm-none-eabi/4.7.3//libgcc.a(_udivsi3.o)
+                0x80004004                __udivsi3
+                0x80004004                __aeabi_uidiv
+                0x800040f8                __aeabi_uidivmod
+ .text          0x80004118      0x148 /home/jra58/cmpt433/linaro-gcc/gcc-arm-none-eabi-4_7-2012q4/lib/gcc/arm-none-eabi/4.7.3//libgcc.a(_divsi3.o)
+                0x80004118                __aeabi_idiv
+                0x80004118                __divsi3
+                0x80004240                __aeabi_idivmod
+ .text          0x80004260        0x4 /home/jra58/cmpt433/linaro-gcc/gcc-arm-none-eabi-4_7-2012q4/lib/gcc/arm-none-eabi/4.7.3//libgcc.a(_dvmd_tls.o)
+                0x80004260                __aeabi_ldiv0
+                0x80004260                __aeabi_idiv0
+ *(.rodata*)
+ .rodata        0x80004264      0x35c Debug/main.o
+ .rodata        0x800045c0       0x50 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(consoleUtils.o)
+ .rodata        0x80004610       0x60 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(uartStdio.o)
+ .rodata.g_pcHex
+                0x80004670        0x4 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(uartStdio.o)
+ .rodata.AM335X_VECTOR_BASE
+                0x80004674        0x4 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(startup.o)
+                0x80004674                AM335X_VECTOR_BASE
+ .rodata.vecTbl
+                0x80004678       0x38 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(startup.o)
+
+.glue_7         0x800046b0        0x0
+ .glue_7        0x00000000        0x0 linker stubs
+
+.glue_7t        0x800046b0        0x0
+ .glue_7t       0x00000000        0x0 linker stubs
+
+.vfp11_veneer   0x800046b0        0x0
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+
+.v4_bx          0x800046b0        0x0
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.iplt           0x800046b0        0x0
+ .iplt          0x00000000        0x0 Debug/bbg_leds.o
+
+.rel.dyn        0x800046b0        0x0
+ .rel.iplt      0x00000000        0x0 Debug/bbg_leds.o
+
+.data           0x800046b0        0x4
+                0x800046b0                . = ALIGN (0x4)
+ *(.data*)
+ .data.speed    0x800046b0        0x4 Debug/bbg_leds.o
+
+.igot.plt       0x800046b4        0x0
+ .igot.plt      0x00000000        0x0 Debug/bbg_leds.o
+
+.bss            0x800046b4      0x228
+                0x800046b4                . = ALIGN (0x4)
+                0x800046b4                _bss_start = .
+ *(.bss*)
+ .bss.isJoystickPressedLeft
+                0x800046b4        0x1 Debug/joystick.o
+ .bss.isJoystickPressedUp
+                0x800046b5        0x1 Debug/joystick.o
+ .bss.isJoystickPressedDown
+                0x800046b6        0x1 Debug/joystick.o
+ *fill*         0x800046b7        0x1 00
+ .bss.flashMode
+                0x800046b8        0x4 Debug/joystick.o
+ .bss.stopHittingWatchdog
+                0x800046bc        0x4 Debug/main.o
+ .bss.speedLED  0x800046c0        0x4 Debug/main.o
+ .bss.s_rxByte  0x800046c4        0x1 Debug/main.o
+ *fill*         0x800046c5        0x3 00
+ .bss.g_rxIsrCallback
+                0x800046c8        0x4 Debug/serial.o
+ .bss.s_flagIsr
+                0x800046cc        0x1 Debug/timer.o
+ *fill*         0x800046cd        0x3 00
+ .bss.s_isrCallback
+                0x800046d0        0x4 Debug/timer.o
+ .bss.triggerCounter.4167
+                0x800046d4        0x4 Debug/wdtimer.o
+ .bss.ConsoleType
+                0x800046d8        0x1 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(consoleUtils.o)
+ *(COMMON)
+ *fill*         0x800046d9        0x3 00
+ COMMON         0x800046dc      0x200 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(interrupt.o)
+                0x800046dc                fnRAMVectors
+                0x800048dc                _bss_end = .
+
+.heap           0x800048dc      0x800
+                0x800048dc                . = ALIGN (0x4)
+                0x800048dc                __end__ = .
+                0x800048dc                end = __end__
+                0x800048dc                __HeapBase = __end__
+ *(.heap*)
+                0x800050dc                . = (. + 0x800)
+ *fill*         0x800048dc      0x800 00
+                0x800050dc                __HeapLimit = .
+
+.stack          0x800050dc  0x7fffff8
+                0x800050dc                . = ALIGN (0x4)
+                0x800050dc                __StackLimit = .
+ *(.stack*)
+                0x880050d4                . = (. + 0x7fffff8)
+ *fill*         0x800050dc  0x7fffff8 00
+                0x880050d4                __StackTop = .
+                0x880050d4                _stack = __StackTop
+OUTPUT(Debug/lightBouncer.out elf32-littlearm)
+
+.debug_info     0x00000000     0x451d
+ .debug_info    0x00000000      0x252 Debug/bbg_leds.o
+ .debug_info    0x00000252      0x1d5 Debug/joystick.o
+ .debug_info    0x00000427      0x19a Debug/main.o
+ .debug_info    0x000005c1      0x180 Debug/serial.o
+ .debug_info    0x00000741      0x15b Debug/timer.o
+ .debug_info    0x0000089c       0x7d Debug/wdtimer.o
+ .debug_info    0x00000919      0x5d0 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(dmtimer.o)
+ .debug_info    0x00000ee9      0x7b3 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(gpio_v2.o)
+ .debug_info    0x0000169c     0x14ab /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .debug_info    0x00002b47      0x45c /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(watchdog.o)
+ .debug_info    0x00002fa3      0x29a /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(consoleUtils.o)
+ .debug_info    0x0000323d      0x69a /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(uartStdio.o)
+ .debug_info    0x000038d7       0xd3 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(dmtimer.o)
+ .debug_info    0x000039aa       0xdd /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(gpio.o)
+ .debug_info    0x00003a87       0x7e /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(uart.o)
+ .debug_info    0x00003b05      0x156 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(uartConsole.o)
+ .debug_info    0x00003c5b       0x55 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(watchdog.o)
+ .debug_info    0x00003cb0       0xb1 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(init.o)
+ .debug_info    0x00003d61      0x46f /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(interrupt.o)
+ .debug_info    0x000041d0       0xe0 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(startup.o)
+ .debug_info    0x000042b0       0xb1 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(cp15.o)
+ .debug_info    0x00004361       0xf8 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(cpu.o)
+ .debug_info    0x00004459       0xc4 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(exceptionhandler.o)
+
+.debug_abbrev   0x00000000     0x119a
+ .debug_abbrev  0x00000000      0x10e Debug/bbg_leds.o
+ .debug_abbrev  0x0000010e       0xd8 Debug/joystick.o
+ .debug_abbrev  0x000001e6       0xd8 Debug/main.o
+ .debug_abbrev  0x000002be       0xf1 Debug/serial.o
+ .debug_abbrev  0x000003af       0xdb Debug/timer.o
+ .debug_abbrev  0x0000048a       0x60 Debug/wdtimer.o
+ .debug_abbrev  0x000004ea      0x122 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(dmtimer.o)
+ .debug_abbrev  0x0000060c      0x124 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(gpio_v2.o)
+ .debug_abbrev  0x00000730      0x14e /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .debug_abbrev  0x0000087e      0x108 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(watchdog.o)
+ .debug_abbrev  0x00000986      0x156 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(consoleUtils.o)
+ .debug_abbrev  0x00000adc      0x186 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(uartStdio.o)
+ .debug_abbrev  0x00000c62       0x7a /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(dmtimer.o)
+ .debug_abbrev  0x00000cdc       0x7a /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(gpio.o)
+ .debug_abbrev  0x00000d56       0x62 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(uart.o)
+ .debug_abbrev  0x00000db8       0xa3 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(uartConsole.o)
+ .debug_abbrev  0x00000e5b       0x39 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(watchdog.o)
+ .debug_abbrev  0x00000e94       0x14 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(init.o)
+ .debug_abbrev  0x00000ea8      0x1c2 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(interrupt.o)
+ .debug_abbrev  0x0000106a       0xa4 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(startup.o)
+ .debug_abbrev  0x0000110e       0x14 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(cp15.o)
+ .debug_abbrev  0x00001122       0x64 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(cpu.o)
+ .debug_abbrev  0x00001186       0x14 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(exceptionhandler.o)
+
+.debug_loc      0x00000000     0x2db0
+ .debug_loc     0x00000000      0x134 Debug/bbg_leds.o
+ .debug_loc     0x00000134      0x108 Debug/joystick.o
+ .debug_loc     0x0000023c       0xdc Debug/main.o
+ .debug_loc     0x00000318       0xdc Debug/serial.o
+ .debug_loc     0x000003f4      0x134 Debug/timer.o
+ .debug_loc     0x00000528       0x58 Debug/wdtimer.o
+ .debug_loc     0x00000580      0x478 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(dmtimer.o)
+ .debug_loc     0x000009f8      0x4fc /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(gpio_v2.o)
+ .debug_loc     0x00000ef4      0xcb8 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .debug_loc     0x00001bac      0x39c /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(watchdog.o)
+ .debug_loc     0x00001f48      0x178 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(consoleUtils.o)
+ .debug_loc     0x000020c0      0x274 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(uartStdio.o)
+ .debug_loc     0x00002334      0x108 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(dmtimer.o)
+ .debug_loc     0x0000243c       0xdc /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(gpio.o)
+ .debug_loc     0x00002518       0x58 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(uart.o)
+ .debug_loc     0x00002570      0x108 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(uartConsole.o)
+ .debug_loc     0x00002678       0x2c /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(watchdog.o)
+ .debug_loc     0x000026a4      0x554 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(interrupt.o)
+ .debug_loc     0x00002bf8       0x58 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(startup.o)
+ .debug_loc     0x00002c50      0x160 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(cpu.o)
+
+.debug_aranges  0x00000000      0xa88
+ .debug_aranges
+                0x00000000       0x50 Debug/bbg_leds.o
+ .debug_aranges
+                0x00000050       0x48 Debug/joystick.o
+ .debug_aranges
+                0x00000098       0x40 Debug/main.o
+ .debug_aranges
+                0x000000d8       0x40 Debug/serial.o
+ .debug_aranges
+                0x00000118       0x50 Debug/timer.o
+ .debug_aranges
+                0x00000168       0x28 Debug/wdtimer.o
+ .debug_aranges
+                0x00000190       0xe8 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(dmtimer.o)
+ .debug_aranges
+                0x00000278      0x100 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(gpio_v2.o)
+ .debug_aranges
+                0x00000378      0x268 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .debug_aranges
+                0x000005e0       0xc0 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(watchdog.o)
+ .debug_aranges
+                0x000006a0       0x58 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(consoleUtils.o)
+ .debug_aranges
+                0x000006f8       0x88 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(uartStdio.o)
+ .debug_aranges
+                0x00000780       0x48 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(dmtimer.o)
+ .debug_aranges
+                0x000007c8       0x40 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(gpio.o)
+ .debug_aranges
+                0x00000808       0x28 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(uart.o)
+ .debug_aranges
+                0x00000830       0x48 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(uartConsole.o)
+ .debug_aranges
+                0x00000878       0x20 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(watchdog.o)
+ .debug_aranges
+                0x00000898       0x20 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(init.o)
+ .debug_aranges
+                0x000008b8      0x110 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(interrupt.o)
+ .debug_aranges
+                0x000009c8       0x28 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(startup.o)
+ .debug_aranges
+                0x000009f0       0x20 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(cp15.o)
+ .debug_aranges
+                0x00000a10       0x58 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(cpu.o)
+ .debug_aranges
+                0x00000a68       0x20 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(exceptionhandler.o)
+
+.debug_ranges   0x00000000      0x8e8
+ .debug_ranges  0x00000000       0x40 Debug/bbg_leds.o
+ .debug_ranges  0x00000040       0x38 Debug/joystick.o
+ .debug_ranges  0x00000078       0x30 Debug/main.o
+ .debug_ranges  0x000000a8       0x30 Debug/serial.o
+ .debug_ranges  0x000000d8       0x40 Debug/timer.o
+ .debug_ranges  0x00000118       0x18 Debug/wdtimer.o
+ .debug_ranges  0x00000130       0xd8 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(dmtimer.o)
+ .debug_ranges  0x00000208       0xf0 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(gpio_v2.o)
+ .debug_ranges  0x000002f8      0x258 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .debug_ranges  0x00000550       0xb0 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(watchdog.o)
+ .debug_ranges  0x00000600       0x48 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(consoleUtils.o)
+ .debug_ranges  0x00000648       0x78 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(uartStdio.o)
+ .debug_ranges  0x000006c0       0x38 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(dmtimer.o)
+ .debug_ranges  0x000006f8       0x30 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(gpio.o)
+ .debug_ranges  0x00000728       0x18 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(uart.o)
+ .debug_ranges  0x00000740       0x38 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(uartConsole.o)
+ .debug_ranges  0x00000778       0x10 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(watchdog.o)
+ .debug_ranges  0x00000788      0x100 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(interrupt.o)
+ .debug_ranges  0x00000888       0x18 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(startup.o)
+ .debug_ranges  0x000008a0       0x48 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(cpu.o)
+
+.debug_line     0x00000000     0x2ced
+ .debug_line    0x00000000      0x1e2 Debug/bbg_leds.o
+ .debug_line    0x000001e2      0x176 Debug/joystick.o
+ .debug_line    0x00000358      0x166 Debug/main.o
+ .debug_line    0x000004be      0x17c Debug/serial.o
+ .debug_line    0x0000063a       0xb4 Debug/timer.o
+ .debug_line    0x000006ee       0x56 Debug/wdtimer.o
+ .debug_line    0x00000744      0x2f7 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(dmtimer.o)
+ .debug_line    0x00000a3b      0x2fe /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(gpio_v2.o)
+ .debug_line    0x00000d39      0x741 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .debug_line    0x0000147a      0x221 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(watchdog.o)
+ .debug_line    0x0000169b      0x1ab /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(consoleUtils.o)
+ .debug_line    0x00001846      0x642 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(uartStdio.o)
+ .debug_line    0x00001e88      0x304 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(dmtimer.o)
+ .debug_line    0x0000218c      0x142 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(gpio.o)
+ .debug_line    0x000022ce      0x16a /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(uart.o)
+ .debug_line    0x00002438       0xd2 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(uartConsole.o)
+ .debug_line    0x0000250a       0xdc /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(watchdog.o)
+ .debug_line    0x000025e6       0x95 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(init.o)
+ .debug_line    0x0000267b      0x2bb /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(interrupt.o)
+ .debug_line    0x00002936       0x96 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(startup.o)
+ .debug_line    0x000029cc      0x18a /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(cp15.o)
+ .debug_line    0x00002b56       0xde /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(cpu.o)
+ .debug_line    0x00002c34       0xb9 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(exceptionhandler.o)
+
+.debug_str      0x00000000     0x2008
+ .debug_str     0x00000000      0x175 Debug/bbg_leds.o
+                                0x1af (size before relaxing)
+ .debug_str     0x00000175      0x114 Debug/joystick.o
+                                0x210 (size before relaxing)
+ .debug_str     0x00000289       0xbb Debug/main.o
+                                0x1bb (size before relaxing)
+ .debug_str     0x00000344       0xbe Debug/serial.o
+                                0x1ce (size before relaxing)
+ .debug_str     0x00000402       0x9c Debug/timer.o
+                                0x1a1 (size before relaxing)
+ .debug_str     0x0000049e       0x37 Debug/wdtimer.o
+                                 0xc1 (size before relaxing)
+ .debug_str     0x000004d5      0x314 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(dmtimer.o)
+                                0x378 (size before relaxing)
+ .debug_str     0x000007e9      0x307 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(gpio_v2.o)
+                                0x3d1 (size before relaxing)
+ .debug_str     0x00000af0      0x87d /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+                                0x971 (size before relaxing)
+ .debug_str     0x0000136d      0x268 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(watchdog.o)
+                                0x330 (size before relaxing)
+ .debug_str     0x000015d5      0x168 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(consoleUtils.o)
+                                0x291 (size before relaxing)
+ .debug_str     0x0000173d      0x19c /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(uartStdio.o)
+                                0x2ae (size before relaxing)
+ .debug_str     0x000018d9      0x12c /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(dmtimer.o)
+                                0x190 (size before relaxing)
+ .debug_str     0x00001a05       0xad /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(gpio.o)
+                                0x179 (size before relaxing)
+ .debug_str     0x00001ab2       0x5f /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(uart.o)
+                                0x12b (size before relaxing)
+ .debug_str     0x00001b11       0xa3 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(uartConsole.o)
+                                0x1a5 (size before relaxing)
+ .debug_str     0x00001bb4       0x50 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(watchdog.o)
+                                0x11c (size before relaxing)
+ .debug_str     0x00001c04      0x2f5 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(interrupt.o)
+                                0x387 (size before relaxing)
+ .debug_str     0x00001ef9       0x70 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(startup.o)
+                                0x13c (size before relaxing)
+ .debug_str     0x00001f69       0x9f /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(cpu.o)
+                                0x14e (size before relaxing)
+
+.comment        0x00000000       0x70
+ .comment       0x00000000       0x70 Debug/bbg_leds.o
+                                 0x71 (size before relaxing)
+ .comment       0x00000000       0x71 Debug/joystick.o
+ .comment       0x00000000       0x71 Debug/main.o
+ .comment       0x00000000       0x71 Debug/serial.o
+ .comment       0x00000000       0x71 Debug/timer.o
+ .comment       0x00000000       0x71 Debug/wdtimer.o
+ .comment       0x00000000       0x71 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(dmtimer.o)
+ .comment       0x00000000       0x71 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(gpio_v2.o)
+ .comment       0x00000000       0x71 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .comment       0x00000000       0x71 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(watchdog.o)
+ .comment       0x00000000       0x71 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(consoleUtils.o)
+ .comment       0x00000000       0x71 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(uartStdio.o)
+ .comment       0x00000000       0x71 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(dmtimer.o)
+ .comment       0x00000000       0x71 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(gpio.o)
+ .comment       0x00000000       0x71 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(uart.o)
+ .comment       0x00000000       0x71 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(uartConsole.o)
+ .comment       0x00000000       0x71 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(watchdog.o)
+ .comment       0x00000000       0x71 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(interrupt.o)
+ .comment       0x00000000       0x71 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(startup.o)
+ .comment       0x00000000       0x71 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(cpu.o)
+
+.ARM.attributes
+                0x00000000       0x3b
+ .ARM.attributes
+                0x00000000       0x37 Debug/bbg_leds.o
+ .ARM.attributes
+                0x00000037       0x37 Debug/joystick.o
+ .ARM.attributes
+                0x0000006e       0x37 Debug/main.o
+ .ARM.attributes
+                0x000000a5       0x37 Debug/serial.o
+ .ARM.attributes
+                0x000000dc       0x37 Debug/timer.o
+ .ARM.attributes
+                0x00000113       0x37 Debug/wdtimer.o
+ .ARM.attributes
+                0x0000014a       0x37 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(dmtimer.o)
+ .ARM.attributes
+                0x00000181       0x37 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(gpio_v2.o)
+ .ARM.attributes
+                0x000001b8       0x37 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .ARM.attributes
+                0x000001ef       0x37 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(watchdog.o)
+ .ARM.attributes
+                0x00000226       0x37 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(consoleUtils.o)
+ .ARM.attributes
+                0x0000025d       0x37 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(uartStdio.o)
+ .ARM.attributes
+                0x00000294       0x37 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(dmtimer.o)
+ .ARM.attributes
+                0x000002cb       0x37 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(gpio.o)
+ .ARM.attributes
+                0x00000302       0x37 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(uart.o)
+ .ARM.attributes
+                0x00000339       0x37 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(uartConsole.o)
+ .ARM.attributes
+                0x00000370       0x37 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(watchdog.o)
+ .ARM.attributes
+                0x000003a7       0x23 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(init.o)
+ .ARM.attributes
+                0x000003ca       0x3d /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(interrupt.o)
+ .ARM.attributes
+                0x00000407       0x3d /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(startup.o)
+ .ARM.attributes
+                0x00000444       0x23 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(cp15.o)
+ .ARM.attributes
+                0x00000467       0x3d /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(cpu.o)
+ .ARM.attributes
+                0x000004a4       0x23 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(exceptionhandler.o)
+ .ARM.attributes
+                0x000004c7       0x18 /home/jra58/cmpt433/linaro-gcc/gcc-arm-none-eabi-4_7-2012q4/lib/gcc/arm-none-eabi/4.7.3//libgcc.a(_udivsi3.o)
+ .ARM.attributes
+                0x000004df       0x18 /home/jra58/cmpt433/linaro-gcc/gcc-arm-none-eabi-4_7-2012q4/lib/gcc/arm-none-eabi/4.7.3//libgcc.a(_divsi3.o)
+ .ARM.attributes
+                0x000004f7       0x18 /home/jra58/cmpt433/linaro-gcc/gcc-arm-none-eabi-4_7-2012q4/lib/gcc/arm-none-eabi/4.7.3//libgcc.a(_dvmd_tls.o)
+
+.debug_frame    0x00000000     0x1c30
+ .debug_frame   0x00000000       0xc4 Debug/bbg_leds.o
+ .debug_frame   0x000000c4       0xac Debug/joystick.o
+ .debug_frame   0x00000170       0x94 Debug/main.o
+ .debug_frame   0x00000204       0x98 Debug/serial.o
+ .debug_frame   0x0000029c       0xc8 Debug/timer.o
+ .debug_frame   0x00000364       0x48 Debug/wdtimer.o
+ .debug_frame   0x000003ac      0x2b4 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(dmtimer.o)
+ .debug_frame   0x00000660      0x2c8 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(gpio_v2.o)
+ .debug_frame   0x00000928      0x778 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .debug_frame   0x000010a0      0x228 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(watchdog.o)
+ .debug_frame   0x000012c8      0x108 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(consoleUtils.o)
+ .debug_frame   0x000013d0      0x1a8 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(uartStdio.o)
+ .debug_frame   0x00001578       0xa0 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(dmtimer.o)
+ .debug_frame   0x00001618       0x88 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(gpio.o)
+ .debug_frame   0x000016a0       0x40 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(uart.o)
+ .debug_frame   0x000016e0       0xb8 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(uartConsole.o)
+ .debug_frame   0x00001798       0x28 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(watchdog.o)
+ .debug_frame   0x000017c0      0x314 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(interrupt.o)
+ .debug_frame   0x00001ad4       0x48 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(startup.o)
+ .debug_frame   0x00001b1c       0xd4 /home/jra58/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(cpu.o)
+ .debug_frame   0x00001bf0       0x20 /home/jra58/cmpt433/linaro-gcc/gcc-arm-none-eabi-4_7-2012q4/lib/gcc/arm-none-eabi/4.7.3//libgcc.a(_udivsi3.o)
+ .debug_frame   0x00001c10       0x20 /home/jra58/cmpt433/linaro-gcc/gcc-arm-none-eabi-4_7-2012q4/lib/gcc/arm-none-eabi/4.7.3//libgcc.a(_divsi3.o)
