@@ -1,5 +1,6 @@
-# light-bouncer
+# light-bouncer 
 light-bouncer is a bare metal application which runs on Beaglebone with a Zen Cape. 
+Date of creation: Fall 2019
 
 Functionality
 ---------------
